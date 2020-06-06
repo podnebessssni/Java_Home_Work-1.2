@@ -28,3 +28,4 @@
 Тестирование производилось в следующем окружении:
 * ОС Windows 10 х64 
 * Java version "11.0.7" 2020-04-14
+* IntelliJ Idea 2020 1.2 Community Edition
