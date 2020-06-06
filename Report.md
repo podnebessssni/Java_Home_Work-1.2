@@ -7,8 +7,7 @@
 На тестирование затрачено: 1.
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/podnebessssni/Java_Home_Work_1.1/issues/1
-* https://github.com/podnebessssni/Java_Home_Work_1.1/issues/2
+
 
 ## Описание процесса тестирования
 
